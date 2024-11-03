@@ -1,0 +1,67 @@
+{
+    "India": {
+      "states": [
+        {
+          "name": "Tamil Nadu",
+          "districts": [
+            {
+              "name": "Virudhunagar",
+              "taluks": [
+                {
+                  "name": "Thiruthangal",
+                  "admin": {
+                    "name": "Mr. Suresh",
+                    "contact": "9876543210"
+                  }
+                },
+                {
+                  "name": "Sivakasi",
+                  "admin": {
+                    "name": "Mr. Rajesh",
+                    "contact": "9123456789"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Madurai",
+              "taluks": [
+                {
+                  "name": "Madurai North",
+                  "admin": {
+                    "name": "Ms. Priya",
+                    "contact": "9876549876"
+                  }
+                },
+                {
+                  "name": "Madurai South",
+                  "admin": {
+                    "name": "Mr. Karthik",
+                    "contact": "9123432123"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kerala",
+          "districts": [
+            {
+              "name": "Thiruvananthapuram",
+              "taluks": [
+                {
+                  "name": "Neyyattinkara",
+                  "admin": {
+                    "name": "Mr. Manoj",
+                    "contact": "9898981234"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

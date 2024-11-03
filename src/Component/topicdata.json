@@ -1,0 +1,23 @@
+[
+    {
+      "topic": "Agriculture",
+      "description": "Agriculture is the backbone of many economies around the world, particularly in developing nations. It encompasses the cultivation of crops, the rearing of livestock, and the production of food, fiber, and other goods. Agriculture plays a crucial role in providing food security and employment for millions of people. In recent years, there has been a significant focus on sustainable agricultural practices, which aim to meet the food needs of the present without compromising the ability of future generations to meet their own needs.",
+      "image": "https://via.placeholder.com/150" 
+    },
+    {
+      "topic": "Commerce",
+      "description": "Commerce refers to the activities involved in the buying and selling of goods and services. It encompasses a wide range of transactions, including retail, wholesale, and e-commerce, and plays a fundamental role in the economy by facilitating trade between producers and consumers. The evolution of commerce has been shaped by technological advancements, globalization, and changes in consumer behavior, leading to a dynamic and complex marketplace.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "topic": "Defence",
+      "description": "Defence encompasses the strategies, policies, and activities aimed at protecting a nation from external threats and ensuring national security. This multifaceted domain includes military operations, intelligence gathering, cybersecurity, and diplomatic efforts. Countries invest heavily in their defence systems to safeguard their sovereignty, territorial integrity, and citizens' safety.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "topic": "Environment & Forest",
+      "description": "The environment and forests are integral to the health of our planet and the well-being of its inhabitants. Environmental protection involves safeguarding natural resources, preserving ecosystems, and combating climate change. Forests, which cover approximately 31% of the Earth's land area, play a crucial role in maintaining biodiversity, regulating the climate, and providing essential resources such as timber, medicine, and clean air.",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+  
